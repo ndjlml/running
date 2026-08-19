@@ -1,6 +1,6 @@
-{
-  "versionCode": 56,
-  "versionName": "1.55",
-  "url": "https://github.com/ndjlml/running/releases/download/v1.55/ildan-run-v1.55.apk",
-  "notes": "최고기록을 1위부터 3위까지 저장해요\n설정에서 가민·삼성헬스를 골라 가져와요\n10일 러닝 플랜 배경을 모래빛으로 바꿨어요\n태블릿에서 화면이 가운데로 모여요\n새벽 1~6시, 오전 7~12시, 오후 13~18시, 저녁 19~24시로 맞췄어요"
+
+  "versionCode": 57,
+  "versionName": "1.56",
+  "url": "https://github.com/ndjlml/running/releases/download/v1.56/ildan-run-v1.56.apk",
+  "notes": "홈 화면 아이콘이 꽉 차게 보여요\n최고기록을 1위부터 3위까지 저장해요\n설정에서 가민·삼성헬스를 골라 가져와요\n10일 러닝 플랜 배경을 모래빛으로 바꿨어요\n태블릿에서 화면이 가운데로 모여요"
 }
