@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.58",
-  "url": "https://github.com/ndjlml/running/releases/download/v1.58/ildan-run-v1.58.apk",
-  "notes": "태블릿에서 위아래 메뉴까지 가운데로 모여요\n오늘 지나간 시간대도 계속 보여요\n지금 시각에 별표가 붙어요\n마스크·자외선 표시가 줄을 밀지 않아요\n종목별 목표 시간을 정할 수 있어요"
+  "versionCode": 60,
+  "versionName": "1.59",
+  "url": "https://github.com/ndjlml/running/releases/download/v1.59/ildan-run-v1.59.apk",
+  "notes": "최고기록 옆에서 목표 시간을 정할 수 있어요\n태블릿에서 위아래 메뉴까지 가운데로 모여요\n오늘 지나간 시간대도 계속 보여요\n지금 시각에 별표가 붙어요\n마스크·자외선 표시가 줄을 밀지 않아요"
 }
