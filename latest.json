@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.59",
-  "url": "https://github.com/ndjlml/running/releases/download/v1.59/ildan-run-v1.59.apk",
-  "notes": "최고기록 옆에서 목표 시간을 정할 수 있어요\n태블릿에서 위아래 메뉴까지 가운데로 모여요\n오늘 지나간 시간대도 계속 보여요\n지금 시각에 별표가 붙어요\n마스크·자외선 표시가 줄을 밀지 않아요"
+  "versionCode": 61,
+  "versionName": "1.60",
+  "url": "https://github.com/ndjlml/running/releases/download/v1.60/ildan-run-v1.60.apk",
+  "notes": "온열지수로 여름 점수가 정확해졌어요\n더울 때 페이스가 얼마나 느려질지 알려줘요\n최고기록 옆에서 목표 시간을 정할 수 있어요\n오늘 지나간 시간대도 계속 보여요\n태블릿에서 위아래 메뉴까지 가운데로 모여요"
 }
