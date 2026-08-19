@@ -1,6 +1,6 @@
-
-  "versionCode": 57,
-  "versionName": "1.56",
-  "url": "https://github.com/ndjlml/running/releases/download/v1.56/ildan-run-v1.56.apk",
-  "notes": "홈 화면 아이콘이 꽉 차게 보여요\n최고기록을 1위부터 3위까지 저장해요\n설정에서 가민·삼성헬스를 골라 가져와요\n10일 러닝 플랜 배경을 모래빛으로 바꿨어요\n태블릿에서 화면이 가운데로 모여요"
+{
+  "versionCode": 59,
+  "versionName": "1.58",
+  "url": "https://github.com/ndjlml/running/releases/download/v1.58/ildan-run-v1.58.apk",
+  "notes": "태블릿에서 위아래 메뉴까지 가운데로 모여요\n오늘 지나간 시간대도 계속 보여요\n지금 시각에 별표가 붙어요\n마스크·자외선 표시가 줄을 밀지 않아요\n종목별 목표 시간을 정할 수 있어요"
 }
