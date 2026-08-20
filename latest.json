@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.60",
-  "url": "https://github.com/ndjlml/running/releases/download/v1.60/ildan-run-v1.60.apk",
-  "notes": "온열지수로 여름 점수가 정확해졌어요\n더울 때 페이스가 얼마나 느려질지 알려줘요\n최고기록 옆에서 목표 시간을 정할 수 있어요\n오늘 지나간 시간대도 계속 보여요\n태블릿에서 위아래 메뉴까지 가운데로 모여요"
+  "versionCode": 62,
+  "versionName": "1.61",
+  "url": "https://github.com/ndjlml/running/releases/download/v1.61/ildan-run-v1.61.apk",
+  "notes": "목표 기록과 오늘 날씨를 묶어 권장 페이스를 알려줘요\n다음 대회 D-day가 목표와 함께 보여요\n온열지수로 여름 점수가 정확해졌어요\n오늘 지나간 시간대도 계속 보여요\n태블릿에서 위아래 메뉴까지 가운데로 모여요"
 }
