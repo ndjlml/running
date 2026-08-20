@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "1.63",
-  "url": "https://github.com/ndjlml/running/releases/download/v1.63/ildan-run-v1.63.apk",
-  "notes": "오늘 하루 점수 그래프가 항상 보여요\n일출·일몰이 잘리던 것을 고쳤어요\n펼친 러닝화를 다시 접을 수 있어요\n추천 시간을 구간으로 알려줘요\n연령등급이 색 띠로 어디쯤인지 보여요"
+  "versionCode": 65,
+  "versionName": "1.64",
+  "url": "https://github.com/ndjlml/running/releases/download/v1.64/ildan-run-v1.64.apk",
+  "notes": "오늘 뭘 입을지 알려줘요\n목표 기록을 004000처럼 숫자만 쳐도 돼요\n앱 이름이 일단뛰어로 돌아왔어요\n오늘 하루 점수 그래프가 항상 보여요\n펼친 러닝화를 다시 접을 수 있어요"
 }
